@@ -1,0 +1,3 @@
+# No hay dependencias de ejecución: la aplicación usa únicamente la biblioteca estándar de Python.
+# Opcional para crear CALCULADORA_IMC.exe:
+pyinstaller>=6.0
