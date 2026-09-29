@@ -5,7 +5,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Tests: Unittest](https://img.shields.io/badge/Tests-16%20Passed-green.svg)](#)
 
-A clinical-grade desktop application for calculating Body Mass Index (BMI), Basal Metabolic Rate (BMR), and Total Daily Energy Expenditure (TDEE). Built in pure Python with exact `decimal.Decimal` arithmetic, input validation, in-memory session history, and report export.
+Desktop health calculator in Python for BMI, BMR and TDEE calculations with validation, testing and privacy-first in-memory history. Built in pure Python with exact `decimal.Decimal` arithmetic, input validation, in-memory session history, and report export.
+
+> **Disclaimer:** This software is designed strictly for informational and educational purposes and does not substitute evaluation, diagnosis, or advice from a qualified healthcare professional.
 
 ---
 
