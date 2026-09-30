@@ -1,5 +1,7 @@
 # BMI & Anthropometric Health Calculator (Desktop App)
 
+[English](README.md) | [Español](README.es.md)
+
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![GUI: Tkinter](https://img.shields.io/badge/GUI-Tkinter-teal.svg)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
